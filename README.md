@@ -11,7 +11,7 @@
   <img align="center" alt="Patrick-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Patrick-React-original" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Patrick-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="Patrick-Scss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scss/scss-plain.svg">
+ 
   
   
 
