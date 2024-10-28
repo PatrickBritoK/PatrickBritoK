@@ -16,7 +16,5 @@
 
  
   
-  
-
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ## Trophies
+![](https://github-profile-trophy.vercel.app/?username=PatrickBritoK&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
