@@ -7,7 +7,7 @@
   ## Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PatrickBritoK&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
 
- <div style="display: inline_block"><br>
+ <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Patrick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Patrick-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Patrick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
