@@ -31,7 +31,8 @@
   <img align="center" alt="Patrick-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div> -->
 # Patrick Brito
-**Mid-level Full Stack Developer**
+**Mid-level Full Stack Developer**<br>
+
 I’m a mid-level full stack developer focused primarily on backend engineering, dedicated to building scalable systems and high-performance APIs.  
 My work revolves around **Java**, **React**, **PostgreSQL**, process automation, and solving real problems with clean, maintainable architecture.
 
