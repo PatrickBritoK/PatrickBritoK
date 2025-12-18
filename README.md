@@ -41,4 +41,9 @@ My work revolves around **Java**, **React**, **PostgreSQL**, process automation,
 **Backend:** Java, Golang<br>
 **Databases:** PostgreSQL, MySQL, Oracle<br>
 **Infrastructure:** Docker<br>
-**Frontend (working knowledge):** React, Angular, Vue<br>
+**Frontend:** React, Angular, Vue<br>
+
+## Languages
+**Portuguese:** Native<br>
+**German:** Beginner (A1 – currently studying)<br>
+**English:** Basic to Intermediate (reading and technical communication)
